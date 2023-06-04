@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Capitals of the World</string>
+
+    <!--CARD FIELDS-->
+    <string name="country">Country: </string>
+    <string name="capital">Capital: </string>
+    <string name="language">Language: </string>
+    <string name="languages">Languages: </string>
+    <string name="currency">Currency: </string>
+    <string name="currencies">Currencies: </string>
+
 </resources>
